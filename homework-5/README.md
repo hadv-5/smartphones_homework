@@ -1,17 +1,5 @@
-# login_mysql_app
+تم الربط الفلاتر مع قاعدة البيانات مع sql بواسطة سيرفر محلي xampp  
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="408" height="122" alt="لقطة شاشة 2026-05-19 011935" src="https://github.com/user-attachments/assets/c39eeb2a-03b9-44c4-b25f-fc021e85ef7c" />
+<img width="2862" height="890" alt="لقطة شاشة 2026-05-19 011103" src="https://github.com/user-attachments/assets/096f5854-4aaf-4630-9426-38862a4072fa" />
+<img width="1616" height="1130" alt="لقطة شاشة 2026-05-19 011940" src="https://github.com/user-attachments/assets/a6873707-9719-4159-b73f-c4dfde688ea5" />
